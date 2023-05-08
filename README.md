@@ -1,1 +1,1 @@
-# reinforcement_learning
+Exercise of making intelligent Agent for simulating Taxi driver in Gymnasium (ex. Gym) package. Using Bellman eq. for Q value, iterative updating table of (state, action) until it’s populated with optimal values. Plotting number of steps and penalties for checking of progress.
